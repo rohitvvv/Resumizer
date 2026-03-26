@@ -2,8 +2,15 @@
 
 RAG pipeline to analyze Resume Dataset. Analyze various resumes in pdf format.
 
-## Run startup.sh
+## Pre-requisite
+Run the script that setups the venv and starts jupyter
+
+```
+```
+./startup.sh
+```
+```
 
 * This will setup the virtual environment
-* In the Jupyerter notebook select Menu->Kernel->resumerag.ipynb
+* In the Jupyter notebook select Menu->Kernel->resumerag.ipynb
 
