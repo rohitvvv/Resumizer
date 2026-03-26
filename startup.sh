@@ -1,5 +1,6 @@
 #/bin/bash
-python -m venv gemini-env
-source gemini-env/bin/activate
-python -m ipykernel install --user --name=gemini-env
+python -m venv resumerag
+source resumerag/bin/activate
+pip install ipykernel
+python -m ipykernel install --user --name=resumerag
 jupyter notebook

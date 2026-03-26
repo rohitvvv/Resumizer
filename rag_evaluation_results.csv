@@ -1,0 +1,13 @@
+Question,Reference Answer,Generated Answer,Score,Judge Reasoning
+Which candidates has over 8 years of experience?,Jose Miguel Morales has over 8 years of experience,"Based on the information provided in the resumes, Jose Miguel Morales has over 10 years of experience. The candidate's resume states ""20+ years' experience"" for several IT-related skills such as Series 7 and DOS.
+
+For the second candidate, there is no specific mention of their total years of experience. Therefore, I cannot determine if they have over 8 years of experience based on the given information.",1,"Reasoning: The Generated Answer states that Jose Miguel Morales has over 10 years of experience, which implies he has over 8 years of experience.
+Verdict: YES"
+How many candidates have management experience or studied it?,Three candidate have studied management,"Based on the information provided in the resume, there are multiple references to management experience and studies:
+
+1. The Professional Summary mentions being a ""Manager of the Project Management Office (PMO)"".
+2. There is an Education entry for a B.A. in Foreign Languages and Literatures with a concentration in Management Science - Decision Support Systems.
+3. The Experience section lists roles such as Information Technology Manager, Senior IT Manager, and IT Director, all indicating management experience.
+
+So, the candidate has both direct management experience (as evidenced by their current role) and formal education in management (B.A. degree).",1,"Reasoning: The Generated Answer provides multiple references to management experience and studies, which aligns with the Reference Answer indicating that three candidates have studied management.
+Verdict: YES"
